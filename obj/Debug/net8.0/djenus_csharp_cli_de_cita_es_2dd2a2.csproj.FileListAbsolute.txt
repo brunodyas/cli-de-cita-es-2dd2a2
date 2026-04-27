@@ -12,3 +12,4 @@ D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-2dd2a2\obj\Debug\net8
 D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-2dd2a2\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_2dd2a2.pdb
 D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-2dd2a2\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_2dd2a2.genruntimeconfig.cache
 D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-2dd2a2\obj\Debug\net8.0\ref\djenus_csharp_cli_de_cita_es_2dd2a2.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-cli-de-cita-es-2dd2a2\obj\Debug\net8.0\djenus_csharp_cli_de_cita_es_2dd2a2.sourcelink.json
