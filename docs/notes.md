@@ -1,3 +1,3 @@
 # Notas
 
-CLI que gera N UUIDs v4 e opcionalmente escreve em arquivo.
+Utilitário que combina dois JSON com regras simples (deep merge superficial).
